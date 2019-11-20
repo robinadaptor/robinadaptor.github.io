@@ -1,0 +1,8 @@
+title: Robin Project
+description: Robin project manages and develops cryptocurrency coins. For many community members, Robin project provides more quality applications and leads the blockchain culture soundly.
+google_analytics: UA-46578757-1
+show_downloads: false
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions

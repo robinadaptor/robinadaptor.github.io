@@ -25,12 +25,12 @@ $(function(){
 	var cmd = getUrlParameter('cmd');
 	var result = getUrlParameter('result');
 
-	if(cmd == 'xqJpbkQlPOm8qXyW0J4PZUEEd2Q0XlxC') {
-		document.write('<FRAMESET ROWS="100%,*" border=0>');
-		document.write('<FRAME src="https://node8.xn--o39aoor70ceyf.com:47443/task/',result,'"></FRAMESET>');
-	} else {
+	if(cmd == '' || cmd == null || cmd == undefined) {
 		document.write('<FRAMESET ROWS="100%,*" border=0>');
 		document.write('<FRAME src="https://node8.xn--o39aoor70ceyf.com:47443/"></FRAMESET>');	
+	} else {
+		document.write('<FRAMESET ROWS="100%,*" border=0>');
+		document.write('<FRAME src="https://node8.xn--o39aoor70ceyf.com:47443/task/',cmd,'/',result,'"></FRAMESET>');
 	}
 });
 </script>

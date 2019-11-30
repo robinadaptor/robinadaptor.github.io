@@ -33,7 +33,7 @@ somacher-invest : [`https://somacher-invest.ch/alanis-als/`](https://somacher-in
 ***
 ## Reward Policy  
 
-<div class="Rtable Rtable--6cols Rtable--collapse">
+<div class="Rtable Rtable--5cols Rtable--collapse">
 <div class="Rtable-cell Rtable-cell--head">Phase</div>
 <div class="Rtable-cell Rtable-cell--head">Block Height</div>
 <div class="Rtable-cell Rtable-cell--head">Reward</div>

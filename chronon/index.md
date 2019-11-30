@@ -32,7 +32,8 @@ paper wallet : [`https://robinadaptor.github.io/chronon/wallet`](https://robinad
 swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.github.io/swapbot)   
 exchange : [`https://robinadaptor.github.io/chamber`](https://robinadaptor.github.io/chamber)  
 coinlib : [`https://coinlib.io/coin/CHN/Chronon`](https://coinlib.io/coin/CHN/Chronon)  
-
+somacher-invest : [`https://somacher-invest.ch/chronon-chn/`](https://somacher-invest.ch/chronon-chn/)    
+  
 [`wallet`](https://github.com/robinadaptor/chronon/releases) [`source`](https://github.com/robinadaptor/chronon) [`vote`](https://robinadaptor.github.io/chronon/vote) [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor)     
 
 ***
@@ -177,7 +178,6 @@ coinlib : [`https://coinlib.io/coin/CHN/Chronon`](https://coinlib.io/coin/CHN/Ch
 ## History  
   
 2018, 28th May, Chronon team (unknown) opened the blockchain.  
-2018, Oct, After a short time, the listing was abolished on graviex exchanges. and then it has been managed by the community.  
 2019, Jun, Chronon is officially redeveloped and operated by Robin Project.  
 2019, Jun, Chronon Core version 1.1.0.0 is released   
 2019, Aug, Chronon Core version 1.2.0.0 is released   

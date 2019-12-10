@@ -19,5 +19,5 @@
 <br/>
 ### <center>PARTNERS</center>  
 
-[<img src="../images/coinpayments.png" width="90">](https://robinadaptor.github.io/swapbot/) [<img src="../images/coinlib.png" width="90">](https://coinlib.io/coin/RNSH/Renish)   
+[<img src="../images/coinpayments.png" width="90">](https://robinadaptor.github.io/swapbot/) [<img src="../images/coinlib.png" width="90">](https://coinlib.io/coin/RNSH/Renish)  [<img src="../images/openchains.png" width="90">](https://openchains.info/)      
 

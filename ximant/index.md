@@ -22,6 +22,7 @@ Ximant is a 100% pure POS system. And Ximant is operated by community.
 ## Official Link  
 
 website : [`https://robinadaptor.github.io/ximant`](https://robinadaptor.github.io/ximant)  
+explorer : [`https://openchains.info/coin/ximant/blocks`](https://openchains.info/coin/ximant/blocks)  
 paper wallet : [`https://robinadaptor.github.io/ximant/wallet`](https://robinadaptor.github.io/ximant/wallet)  
 swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.github.io/swapbot)   
 exchange : [`https://robinadaptor.github.io/chamber`](https://robinadaptor.github.io/chamber)    

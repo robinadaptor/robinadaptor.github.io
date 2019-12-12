@@ -22,6 +22,7 @@ Alanis is a 100% pure POS system. And Alanis is operated by community.
 ## Official Link  
 
 website : [`https://robinadaptor.github.io/alanis`](https://robinadaptor.github.io/alanis)  
+explorer : [`https://openchains.info/coin/alanis/blocks`](https://openchains.info/coin/alanis/blocks)  
 paper wallet : [`https://robinadaptor.github.io/alanis/wallet`](https://robinadaptor.github.io/alanis/wallet)  
 swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.github.io/swapbot)   
 exchange : [`https://robinadaptor.github.io/chamber`](https://robinadaptor.github.io/chamber)    
